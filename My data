@@ -1,0 +1,12 @@
+public class Mydata {
+    public static void main(String[] args) {
+
+        String myName = "Shivam Kumar";
+        int myAge = 20;
+        int myRollNo = 232101;
+
+        System.out.println("Name: " + myName);
+        System.out.println("Age: " + myAge);
+        System.out.println("Roll No: " + myRollNo);
+    }
+}
