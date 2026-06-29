@@ -1,0 +1,17 @@
+public class Rectarea {
+    public static void main(String[] args) {
+        int length = 5;
+        int width = 10;
+
+        // calculate the area of the rectangle
+
+        int area = length * width;
+        
+        
+        // print the area of the rectangle
+        System.out.println("length of rectangle : " + length);
+        System.out.println("width of rectangle : " + width);
+        System.out.println("The area of the rectangle is: " + area);
+    }
+    
+}
