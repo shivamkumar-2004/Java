@@ -1,0 +1,17 @@
+public class Datatypes {
+    public static void main(String[] args) {
+        // Declare and initialize variables of different data types
+        int integerVar = 10;
+        double doubleVar = 20.5;
+        char charVar = 'A';
+        boolean booleanVar = true;
+        String stringVar = "Hello, World!";
+
+        // Print the values of the variables
+        System.out.println("Integer Value: " + integerVar);
+        System.out.println("Double Value: " + doubleVar);
+        System.out.println("Character Value: " + charVar);
+        System.out.println("Boolean Value: " + booleanVar);
+        System.out.println("String Value: " + stringVar);
+    }
+}
